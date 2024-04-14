@@ -1,0 +1,15 @@
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\MileMapper.deps.json
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\MileMapper.dll
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\ref\MileMapper.dll
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\MileMapper.pdb
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\obj\Release\netstandard2.0\MileMapper.csproj.AssemblyReference.cache
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\obj\Release\netstandard2.0\MileMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\obj\Release\netstandard2.0\MileMapper.AssemblyInfoInputs.cache
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\obj\Release\netstandard2.0\MileMapper.AssemblyInfo.cs
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\obj\Release\netstandard2.0\MileMapper.csproj.CoreCompileInputs.cache
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\obj\Release\netstandard2.0\MileMapper.dll
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\obj\Release\netstandard2.0\refint\MileMapper.dll
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\obj\Release\netstandard2.0\MileMapper.pdb

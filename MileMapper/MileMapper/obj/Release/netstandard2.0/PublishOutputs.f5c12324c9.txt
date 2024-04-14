@@ -1,0 +1,8 @@
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\publish\MileMapper.dll
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\publish\MileMapper.deps.json
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\publish\MileMapper.pdb
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\publish\System.Numerics.Vectors.dll
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\publish\Xamarin.Essentials.dll
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\publish\Xamarin.Forms.Core.dll
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\publish\Xamarin.Forms.Platform.dll
+C:\Users\rayo_\source\repos\MileMapper\MileMapper\bin\Release\netstandard2.0\publish\Xamarin.Forms.Xaml.dll

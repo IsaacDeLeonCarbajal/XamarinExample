@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MileMapper.MainPage">
+
+    <StackLayout BackgroundColor="#FF6666" Padding="20">
+
+        <!-- Encabezado -->
+        <Label Text="Convertir Kilómetros a Millas" HorizontalTextAlignment="Center" TextColor="White" FontSize="28" Margin="0,20,0,40"/>
+
+        <!-- Contenedor para la entrada y el botón -->
+        <Frame BackgroundColor="White" CornerRadius="20" Padding="20" Margin="0,0,0,20">
+            <StackLayout>
+                <!-- Entrada para ingresar los kilómetros -->
+                <Entry x:Name="KilometrosEntry" Placeholder="Ingrese los kilómetros" PlaceholderColor="#B0B0B0" TextColor="#333333" Keyboard="Numeric" Margin="0,0,0,20"/>
+                <!-- Botón de conversión -->
+                <Button Text="Convertir" Clicked="ConvertirButton_Clicked" BackgroundColor="#FFD9D9" TextColor="#FF6666" CornerRadius="10"/>
+            </StackLayout>
+        </Frame>
+
+        <!-- Etiqueta para mostrar el resultado -->
+        <Frame BackgroundColor="White" CornerRadius="20" Padding="20" x:Name="miFrame">
+            <Label x:Name="ResultadoLabel" FontSize="17" TextColor="#FF3333"
+           FontFamily="Montserrat"
+           LineHeight="1.5"
+           HorizontalTextAlignment="Center"
+           VerticalTextAlignment="Center"
+           Margin="0"
+           Padding="0"/>
+        </Frame>
+
+    </StackLayout>
+
+</ContentPage>
